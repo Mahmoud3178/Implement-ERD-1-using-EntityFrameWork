@@ -1,3 +1,3 @@
 # Project ER Diagram
 
-![ER Diagram](image/ERD.jpeg)
+![ER Diagram](project2_entityframework/image/ERD.jpeg)
