@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend c#\\project2_entityframework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\project2_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\project2_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\instractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\instractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\instructorcoursecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\instructorcoursecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|d:\\backend c#\\project2_entityframework\\project2_entityframework\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8302A52C-CE97-4164-B43D-5543784AA25C}|project2_entityframework\\project2_entityframework.csproj|solutionrelative:project2_entityframework\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "project2_entityframework\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:15:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "project2_entityframework.csproj",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\project2_entityframework.csproj",
+              "RelativeDocumentMoniker": "project2_entityframework\\project2_entityframework.csproj",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\project2_entityframework.csproj",
+              "RelativeToolTip": "project2_entityframework\\project2_entityframework.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T21:19:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Program.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Program.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Program.cs",
+              "RelativeToolTip": "project2_entityframework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:13:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\Topic.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Topic.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:22:16.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\Course.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Course.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:22:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instractor.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Instractor.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\Instractor.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Instractor.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\Instractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:22:33.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsetings.json",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\appsetings.json",
+              "RelativeDocumentMoniker": "project2_entityframework\\appsetings.json",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\appsetings.json",
+              "RelativeToolTip": "project2_entityframework\\appsetings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T21:15:50.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstructorCoursecs.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\InstructorCoursecs.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\InstructorCoursecs.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\InstructorCoursecs.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\InstructorCoursecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:24:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\Student.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Student.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:21:45.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\StudentCourse.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:24:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "project2_entityframework\\Entities\\Department.cs",
+              "ToolTip": "D:\\backend c#\\project2_entityframework\\project2_entityframework\\Entities\\Department.cs",
+              "RelativeToolTip": "project2_entityframework\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:22:48.713Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
